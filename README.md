@@ -15,8 +15,8 @@ STEP 5:Include Necessary parameters in each function.<br>
 
 # Program and Output:
 ```
-Developed by: Paul Andrew D
-Register number: 212221230075
+Developed by: Jeeva MS
+Register number: 212221230040
 ```
 ```
 import seaborn as sns
